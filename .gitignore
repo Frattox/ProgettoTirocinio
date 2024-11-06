@@ -1,0 +1,3 @@
+frontend/prova-standalone/node_modules/
+backend/.venv/
+backend/.flaskenv
